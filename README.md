@@ -1,4 +1,4 @@
-# Computer Architecture-Kernal Components
+# Computer Architecture - Kernal Components
 Welcome to my Computer Architecture repository! This documentation covers the core hardware and processor components of a computer system.
 
 ---
